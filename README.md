@@ -55,6 +55,9 @@ print(f"Predicted value: {pre}")
 
 ```
 ## Output:
+## data table:
+![Screenshot 2024-03-08 115101](https://github.com/lokeshnarayanan/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119393019/36a9ae86-b534-4cbb-8dd0-cded8b0cd877)
+## predicted value:
 ![Screenshot 2024-03-08 114206](https://github.com/lokeshnarayanan/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119393019/d195b7da-b300-4d9e-a2bd-fe4afefd7bc5)
 
 
